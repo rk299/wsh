@@ -1,0 +1,12 @@
+Goal: Create a shell and accessories, primarily for the web.
+The shell will provide an interface for performing basic web
+tasks. Each 'accessory' program will handle a single web task
+and do it well. The shell will provide means of combination
+of these tasks, and will integrate seamlessly into a regular
+system shell. A mix between a system shell and a Yahoo Pipes
+command-line interface.
+
+02/13/11
+Currently the most basic system shell has been implemented,
+primarily to understand functioning, later on an existing
+shell may be extended to provide web accessories.
